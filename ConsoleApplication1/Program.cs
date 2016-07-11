@@ -11,6 +11,10 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             // sa
+
+            // asa
+
+            Console.WriteLine("asa");
         }
     }
 }
